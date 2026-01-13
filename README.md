@@ -35,7 +35,7 @@ I'm a *Aspiring Web Developer* passionate about building clean and responsive ap
 
 ## 🌐 Socials
 <p>
-  <a href="https://https://www.facebook.com/Chengmats/your-link" target="_blank">
+  <a href="https://https://www.facebook.com/Chengmats" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/your-link" target="_blank">
