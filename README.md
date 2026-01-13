@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**razorcheng03/razorcheng03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build things because curiosity doesn’t let me sleep.
 
-Here are some ideas to get you started:
+Most of my projects start as questions, small annoyances, or “what if?” moments —
+and turn into code that actually does something useful.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I care about:
+• clarity over cleverness  
+• progress over perfection  
+• learning by building  
+
+This profile is a collection of experiments, lessons, half-polished ideas,
+and the occasional project that turned out better than expected.
