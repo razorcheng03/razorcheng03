@@ -5,9 +5,12 @@
 
 <!-- Avatar -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V4bmFpbmx6bXF3ZzR0Ynd4Z3B6Z3B6Z3B6Z3B6Z3B6Z3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/o0vwzuFwCGAFO/giphy.gif" alt="Coding Dog Avatar" width="150" height="150" style="border-radius:50%; object-fit: cover;"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Dog Avatar 1" width="150" style="border-radius:50%;" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" alt="Happy Dog Avatar" width="150" style="border-radius:50%;" />
+</p>
 <!-- Profile Picture -->
 <p align="center">
   <img src="https://your-avatar-link-here.com/avatar.png" alt="Avatar" width="150" style="border-radius:50%;" />
