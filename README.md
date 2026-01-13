@@ -3,9 +3,8 @@
   <img src="banner.png" alt="Banner" width="100%" />
 </p>
 
-<!-- Avatar -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Dog Avatar 1" width="150" style="border-radius:50%;" />
+  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Neon Cool" width="150" style="border-radius:50%;" />
 </p>
 
 
