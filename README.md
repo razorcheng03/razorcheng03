@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" alt="Neon Cool" width="150" style="border-radius:50%;" />
+  <img src="assets/dog.jpg" alt="My dog" width="220" style="border-radius:16px;" />
 </p>
+
 
 <h1 align="center">Hi, I’m Archy 👋</h1>
 <p align="center">
