@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/dog.jpg" alt="My dog" width="220" style="border-radius:16px;" />
+  <img src="assets/dog.jfif" alt="My dog" width="220" style="border-radius:16px;" />
 </p>
 
 
