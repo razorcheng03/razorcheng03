@@ -73,21 +73,22 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=razorcheng03&show_icons=true&theme=radical&hide_border=true"
-    height="165"
     alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=razorcheng03&layout=compact&theme=radical&hide_border=true"
-    height="165"
-    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api?username=razorcheng03&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=razorcheng03&theme=radical&hide_border=true"
-    height="180"
     alt="GitHub streak"
+    src="https://streak-stats.demolab.com?user=razorcheng03&theme=radical&hide_border=true&cache_seconds=86400"
   />
 </p>
+
+<p align="center">
+  <img
+    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=razorcheng03&layout=compact&theme=radical&hide_border=true&cache_seconds=86400"
+  />
+</p>
+
