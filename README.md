@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/aki.jpg.jfif" alt="My dog" width="220" style="border-radius:16px;" />
+  <img src="assets/aki.jpg.jfif" alt="My dog" width="200" style="border-radius:50%; border:1px solid #30363d;" />
 </p>
+
 
 
 
