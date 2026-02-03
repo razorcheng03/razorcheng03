@@ -4,8 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/dog.jfif" alt="My dog" width="220" style="border-radius:16px;" />
+  <img src="assets/aki.jpg.jfif" alt="My dog" width="220" style="border-radius:16px;" />
 </p>
+
 
 
 <h1 align="center">Hi, I’m Archy 👋</h1>
