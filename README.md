@@ -10,7 +10,7 @@
 
 
 
-<h1 align="center">Hi, I’m Archy 👋</h1>
+<h1 align="center">Hi, I’m Aki-Chan 👋</h1>
 <p align="center">
   <b>Aspiring Full-Stack Web Developer</b> • React / Next.js • TypeScript • PHP/Laravel
 </p>
